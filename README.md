@@ -1,1 +1,1 @@
-![Diagrama DER](diagrama.drawio.svg)
+![Diagrama DER](diagrama.drawio.png)
